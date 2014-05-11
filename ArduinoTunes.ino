@@ -19,7 +19,6 @@ int durations[]  = {4, 4, 4, 5, 16, 4, 5, 16, 2, 4, 4, 4, 5, 16, 4, 5, 16, 2};
 int tempo = 120; // tempo for the melody expressed in beats per minute (BPM)
 
 void setup() {
-  delay(5000);
   playTune(melody, durations, tempo);
 }
 
