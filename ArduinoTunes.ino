@@ -1,9 +1,7 @@
 /*
-  Play a simple tune using a piezzo 
-
- Based on example created by Tom Igoe 
- http://arduino.cc/en/Tutorial/Tone
- 
+* Play a simple tune using a piezzo 
+* Based on example created by Tom Igoe 
+* http://arduino.cc/en/Tutorial/Tone
 */
 
 // Make sure the file pitches.h is placed in the same folder as this sketch
